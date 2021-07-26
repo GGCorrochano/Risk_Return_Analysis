@@ -7,10 +7,6 @@ Risk Return Analysis is a pandas library for evaluating investment options for i
 Risk Return Analysis is useful because it analyzes and determines the most investment potential based on key risk-management metrics 
 such as the daily returns, standard deviations, Sharpe ratios, and betas.
 
-## Visualization
-
-
-
 ## Contributing
 
 Pull requests are welcome. Please open an issue to discuss before executing any changes.
